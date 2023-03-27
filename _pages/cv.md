@@ -17,7 +17,7 @@ Education
 * Ph.D in School of Computing, KAIST, 2023
 
 
-Work Experiences
+Work Experience
 ------
 * Spring 2023: Postdoctoral researcher in GIST
 
