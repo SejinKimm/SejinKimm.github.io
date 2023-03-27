@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sejin Kim"
   avatar           : "sejinkim.jpg"
-  #bio              : "Your biography for the left-hand sidebar"
+  bio              : " "
   location         : "GIST, Republic of Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  #teaching:
-    #output: true
-    #permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-    #output: true
-    #permalink: /:collection/:path/
-  #talks:
-    #output: true
-    #permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
