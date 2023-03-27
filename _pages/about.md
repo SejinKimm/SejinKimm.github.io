@@ -12,3 +12,13 @@ redirect_from:
 I am a postdoctoral researcher at GIST AI Graduate School, advised by Prof. Sundong Kim.
 
 I am interested in ...
+
+Recently, I graduated School of Computing at KAIST in 2023.
+My thesis was about spatio-temporal prediction and my academic advisor was Jae-Gil Lee and Kyu-Young Whang.
+
+
+Publications
+------
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
