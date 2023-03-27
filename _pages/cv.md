@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* Spring 2023: Postdoctoral researcher in GIST
+
 Education
 ======
 * B.S. in Computer Science, KAIST, 2013
