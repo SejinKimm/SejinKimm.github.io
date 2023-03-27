@@ -1,0 +1,10 @@
+---
+title: "Revisit Prediction by Deep Survival Analysis"
+collection: publications
+permalink: /publication/PAKDD2020
+excerpt: 'This paper is about the revisit prediction using survival analysis.'
+date: 2020-05-11
+venue: 'Proceedings of the 24th Pacific-Asia Conference in Advances in Knowledge Discovery and Data Mining, 2, 514–526.'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/978-3-030-47436-2_39.pdf'
+citation: 'Kim, S., Song, H., Kim, S., & Lee, J.-G. (2020). Revisit Prediction by Deep Survival Analysis. Proceedings of the 24th Pacific-Asia Conference in Advances in Knowledge Discovery and Data Mining, 2, 514-526.'
+---
