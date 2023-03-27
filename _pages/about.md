@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a postdoctoral researcher at GIST AI Graduate School, advised by Prof. Sundong Kim.
+
+I am interested in ...
