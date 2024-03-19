@@ -19,7 +19,8 @@ Education
 
 Work Experience
 ------
-* Spring 2023: Postdoctoral researcher in GIST
+* Fall 2016: Postmaster researcher in AITRC at KAIST School of Computing  
+* Spring 2023: Postdoctoral researcher in DSLab at GIST AI Graduate School 
 
 
 Publications
