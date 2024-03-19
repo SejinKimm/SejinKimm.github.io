@@ -13,8 +13,8 @@ redirect_from:
 Education
 ------
 * 2009.02 - 2013.08   B.S. in Computer Science, KAIST
-* 2013.09 - 2016.08   M.S. in School of Computing, KAIST, 2016
-* 2017.03 - 2023.02   Ph.D in School of Computing, KAIST, 2023
+* 2013.09 - 2016.08   M.S. in School of Computing, KAIST
+* 2017.03 - 2023.02   Ph.D in School of Computing, KAIST
 
 
 Work Experience
