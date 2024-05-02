@@ -4,5 +4,5 @@ collection: Domestic Journal
 date: 2024-02-15
 venue: 'KIISE Transactions on Computing Practices'
 paperurl: 'https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11716261'
-citation: 'Park., J., Im., J., Lee, Y., Shin, D., Kim, S., & Kim, S. (2023). The Possibility of Prompt Engineering for ARC Problem Solving. KIISE Transactions on Computing Practices.'
+citation: 'Sim., W., Jin., H., Kim, S., & Kim, S. (2023). The Possibility of Prompt Engineering for ARC Problem Solving. KIISE Transactions on Computing Practices.'
 ---
