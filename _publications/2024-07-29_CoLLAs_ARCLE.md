@@ -1,5 +1,5 @@
 ---
-title: "ARCLE: The Abstract and Reasoning Corpus Learning Environment for Reinforcement Learning"
+title: "ARCLE: The Abstraction and Reasoning Corpus Learning Environment for Reinforcement Learning"
 collection: Conference
 date: 2024-07-29
 venue: 'CoLLAs'
