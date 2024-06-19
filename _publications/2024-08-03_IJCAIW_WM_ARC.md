@@ -3,6 +3,6 @@ title: "Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus v
 collection: Conference
 date: 2024-08-03
 venue: 'IJCAI Workshop IARML'
-paperurl: ' '
+paperurl: '[link](https://github.com/SejinKimm/SejinKimm.github.io/blob/master/files/WorldModel_IJCAI2024_Workshop.pdf)'
 citation: 'Lee, J., Sim, w., Kim, S. & Kim, S. (2024). Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus via Model-Based RL. IJCAI Workshop IARML.'
 ---
