@@ -18,6 +18,6 @@ My thesis was about spatio-temporal prediction and my academic advisor was Jae-G
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
