@@ -28,6 +28,6 @@ Work Experience
 
 Publications
 ------
-  <ul>{% for post in site.publications | reverse %}
+  <ul>{% for post in site.publications reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
