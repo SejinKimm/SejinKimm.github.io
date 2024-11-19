@@ -1,6 +1,6 @@
 ---
 title: "Reasoning Abilities of Large Language Models through the Lens of Abstraction and Reasoning"
-collection: conference
+collection: Conference
 date: 2024-12-15
 venue: 'NeurIPS Workshop S2R'
 paperurl: 'https://openreview.net/forum?id=getEDedhSV'
