@@ -9,12 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral researcher at GIST AI Graduate School, advised by Prof. Sundong Kim.
-My research is about building a human-like AI with abstraction and reasoning.
-
-Recently, I graduated School of Computing at KAIST in 2023.
-My thesis was about spatio-temporal prediction and my academic advisor was Jae-Gil Lee and Kyu-Young Whang.
-
+I am a Postdoctoral Researcher at the Department of AI Convergence, Gwangju Institute of Science and Technology (GIST), Korea. I received my Ph.D. in Computer Science from KAIST, where I worked under the supervision of Prof. Jae-Gil Lee, focusing on spatio-temporal prediction and transfer learning for data-poor cities. My current research focuses on human-like AI, artificial general intelligence, reinforcement learning, and program synthesis. I have published in leading venues such as NeurIPS, KDD, ICML, and IJCAI. I am the recipient of the NRF Postdoctoral Fellowship (2024–2026) for developing AI models with advanced abstraction and reasoning capabilities. I was recognized with the Excellence Postdoctoral Researcher Award at GIST in 2024 and selected as an Outstanding Reviewer at KDD 2025.
 
 Publications
 ------
