@@ -20,10 +20,10 @@ Education
 
 Work Experience
 ------
-* 2016.09 - 2017.02   Postmaster Researcher in School of Computing, KAIST
+* 2016.09 - 2017.02   Postmaster Researcher in the School of Computing, KAIST
 * 2017.05 - 2023.03   Programming Lecturer in WITLab
 * 2023.02 - 2023.03   Programming Engineer in GraphAI 
-* 2023.04 - 2025.08   Postdoctoral Researcher in AI Graduate School, GIST
+* 2023.04 - 2026.08   Postdoctoral Researcher in AI Graduate School, GIST
 
 
 Publications
