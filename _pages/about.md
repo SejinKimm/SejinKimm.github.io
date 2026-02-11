@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at the Department of AI Convergence, Gwangju Institute of Science and Technology (GIST), Korea. I received my Ph.D. in Computer Science from KAIST, where I worked under the supervision of Prof. Jae-Gil Lee, focusing on spatio-temporal prediction and transfer learning for data-poor cities.
+I am a Postdoctoral Researcher in the Department of AI Convergence at Gwangju Institute of Science and Technology (GIST), Korea. I received my Ph.D. in Computer Science from KAIST under the supervision of Prof. Jae-Gil Lee and Prof. Kyu-Young Whang. My doctoral research focused on spatio-temporal prediction and transfer learning, and my current work centers on advancing human-like reasoning and abstraction in artificial intelligence.
 
-My current research focuses on human-like AI, artificial general intelligence, reinforcement learning, and program synthesis. I have published in leading venues, including NeurIPS, KDD, ICML, and IJCAI. I am the recipient of the NRF Postdoctoral Fellowship (2024–2026) for developing AI models with advanced abstraction and reasoning capabilities. I was recognized with the Excellence Postdoctoral Researcher Award at GIST in 2024 and selected as an Outstanding Reviewer at KDD 2025.
+My research aims to develop abstraction and reasoning capabilities toward general and adaptive intelligence, with a particular focus on ARC-AGI, compositional generalization, program synthesis, and reinforcement learning with trajectory modeling. I have published in leading international conferences, including NeurIPS, ICML, ICLR, KDD, and IJCAI, as well as in peer-reviewed journals such as ACM Transactions on Intelligent Systems and Technology (SCI-E, top 10%) and Transactions on Machine Learning Research (SCOPUS). I currently serve as an Area Chair for KDD Datasets and Benchmarks Track and as a Program Committee member for AAAI and KDD.
+
+I am the recipient of the NRF Postdoctoral Fellowship (2024–2026) as Principal Investigator for a project on developing abstraction and reasoning capabilities in AI models. I was also honored with the Excellence Postdoctoral Researcher Award at GIST in 2024 and selected as a Top 10% Outstanding Reviewer at KDD 2025.
 
 Education
 ------
