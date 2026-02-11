@@ -1,6 +1,6 @@
 ---
 title: "TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design"
-collection: Conference
+pub_type: Conference
 date: 2026-06-27
 venue: 'ICLR'
 paperurl: 'https://openreview.net/forum?id=J0OdFoOhSN'

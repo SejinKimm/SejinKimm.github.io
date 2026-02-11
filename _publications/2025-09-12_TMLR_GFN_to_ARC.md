@@ -1,6 +1,6 @@
 ---
 title: "Solution Augmentation for ARC-AGI Problems Using GFlowNet: A Probabilistic Exploration Approach"
-collection: Journal
+pub_type: Journal
 date: 2025-09-12
 venue: 'TMLR'
 paperurl: 'https://openreview.net/forum?id=ULCOhBgGzy'

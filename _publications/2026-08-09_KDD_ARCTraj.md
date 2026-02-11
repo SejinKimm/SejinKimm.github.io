@@ -1,6 +1,6 @@
 ---
 title: "ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving"
-collection: Conference
+pub_type: Conference
 date: 2026-08-09
 venue: 'KDD'
 paperurl: 'https://arxiv.org/abs/2511.11079'

@@ -1,6 +1,6 @@
 ---
 title: "Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus"
-collection: Journal
+pub_type: Journal
 date: 2025-12-01
 venue: 'ACM TIST'
 paperurl: 'https://dl.acm.org/doi/10.1145/3712701'
