@@ -13,7 +13,7 @@ I am a Postdoctoral Researcher in the Department of AI Convergence at Gwangju In
 
 My research aims to develop abstraction and reasoning capabilities toward general and adaptive intelligence, with a particular focus on ARC-AGI, compositional generalization, program synthesis, and reinforcement learning with trajectory modeling. I have published in leading international conferences, including NeurIPS, ICML, ICLR, KDD, and IJCAI, as well as in peer-reviewed journals such as ACM Transactions on Intelligent Systems and Technology and Transactions on Machine Learning Research.
 
-I currently serve as an Area Chair for KDD Datasets and Benchmarks Track and as a Program Committee member for AAAI and KDD. I received the NRF Postdoctoral Fellowship (2024–2026), and was honored with the Excellence Postdoctoral Researcher Award at GIST in 2024 and selected as a Top 10% Outstanding Reviewer at KDD 2025.
+I currently serve as an Area Chair for KDD Datasets and Benchmarks Track and as a Program Committee member for AAAI and KDD. I received the NRF Postdoctoral Fellowship (2024–2026), and was honored with the Excellence Postdoctoral Researcher Award at GIST and selected as a Top 10% Outstanding Reviewer at KDD 2025.
 
 Education
 ------
