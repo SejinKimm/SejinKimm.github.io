@@ -26,10 +26,10 @@ Work Experience
 * 2023.02 - 2023.03   Programming Engineer in GraphAI
 * 2023.04 - 2026.08   Postdoctoral Researcher in AI Graduate School, GIST
 
-Recent Publications
+Selected Publications
 ------
-  <ul>{% assign pubs = site.publications | reverse %}{% for post in pubs limit:5 %}
+  <ul>{% assign pubs = site.publications | reverse %}{% for post in pubs %}{% if post.selected %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endif %}{% endfor %}</ul>
 
 [See all publications →](/publications/)
