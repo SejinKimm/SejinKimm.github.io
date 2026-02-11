@@ -23,7 +23,7 @@ Education
 Selected Publications
 ------
   <ul>{% assign pubs = site.publications | reverse %}{% for post in pubs %}{% if post.selected %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-selected.html %}
   {% endif %}{% endfor %}</ul>
 
 [See all publications →](/publications/)
