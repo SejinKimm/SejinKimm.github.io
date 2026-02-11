@@ -7,6 +7,5 @@
 {% endif %}
 
 <li>
-  <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-  {% if post.venue %} <i>{% if post.pub_type == "Journal" %}{{ post.venue }}, {{ post.date | date: "%Y" }}{% else %}{{ post.venue }} {{ post.date | date: "%Y" }}{% endif %}</i>{% endif %}
+  <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>{% if post.venue %}&nbsp;&nbsp;&nbsp;<i>{% if post.pub_type == "Journal" %}{{ post.venue }}, {{ post.date | date: "%Y" }}{% else %}{{ post.venue }} {{ post.date | date: "%Y" }}{% endif %}</i>{% endif %}
 </li>
