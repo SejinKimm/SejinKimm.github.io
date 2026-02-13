@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher in the Department of AI Convergence at Gwangju Institute of Science and Technology (GIST), Korea. I received my Ph.D. in Computer Science from KAIST under the supervision of Prof. Jae-Gil Lee and Prof. Kyu-Young Whang. My doctoral research focused on spatio-temporal prediction and transfer learning, and my current work centers on advancing human-like reasoning and abstraction in artificial intelligence.
 
-My research aims to develop abstraction and reasoning capabilities toward general and adaptive intelligence, with a particular focus on ARC-AGI, compositional generalization, program synthesis, and reinforcement learning with trajectory modeling. I have published in leading international conferences, including ICML, IJCAI, KDD, NeurIPS, AAAI, and ICLR, as well as in Q1 SCI-E journals such as ACM Transactions on Intelligent Systems and Technology.
+My research aims to develop abstraction and reasoning capabilities toward general and adaptive intelligence, with a particular focus on ARC-AGI, compositional generalization, program synthesis, and reinforcement learning with trajectory modeling. I have published in leading international conferences, including ICML, IJCAI, KDD, NeurIPS, AAAI, and ICLR, as well as in Q1 SCI-E journals such as ACM TIST.
 
 I currently serve as an Area Chair for KDD 2026 Datasets and Benchmarks Track and as a Program Committee member for AAAI. I was selected as a top 10% Outstanding Reviewer at KDD 2025, and received the NRF Postdoctoral Fellowship (2024–2026) and the Excellence Postdoctoral Researcher Award at GIST.
 
@@ -24,8 +24,8 @@ Education
 
 Selected Publications
 ------
-  <ul>{% assign pubs = site.publications | reverse %}{% for post in pubs %}{% if post.selected %}
+  <ul>{% assign pubs = site.publications | where: "selected", true | sort: "selected_order" %}{% for post in pubs %}
     {% include archive-single-selected.html %}
-  {% endif %}{% endfor %}</ul>
+  {% endfor %}</ul>
 
 [See all publications →](/publications/)
