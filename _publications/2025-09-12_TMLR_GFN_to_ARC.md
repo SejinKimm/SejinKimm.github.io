@@ -7,5 +7,5 @@ paperurl: 'https://openreview.net/forum?id=ULCOhBgGzy'
 citation: 'Hwang, S., Lee, S., Kim, S., & Kim, S. (2025). Solution Augmentation for ARC-AGI Problems Using GFlowNet: A Probabilistic Exploration Approach. TMLR.'
 selected: true
 selected_order: 4
-author_role: "Co-corresponding"
+author_role: "Co-corresponding Author"
 ---
