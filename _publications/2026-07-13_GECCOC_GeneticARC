@@ -5,5 +5,4 @@ date: 2026-07-13
 venue: 'GECCO Companion'
 paperurl: 'https://evorepair-site.vercel.app/'
 citation: 'Liyew, W., Oh, D., Lee, S., Kim, S., & Kim, S. (2026). Semantic Mutation via LLMs: A Hybrid Approach to Evolutionary Program Synthesis. GECCO Companion.'
-selected: false
 ---
