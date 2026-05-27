@@ -3,6 +3,6 @@ title: "Unraveling the ARC Puzzle: Mimicking Human Solutions with Object-Centric
 collection: Conference
 date: 2023-06-20
 venue: 'ICML Workshop ILHF'
-paperurl: 'https://arxiv.org/abs/2306.08204'
+paperurl: 'https://openreview.net/forum?id=F9QfmL6IjZ'
 citation: 'Park, J., Im, J., Hwang, S., Lim, M., Ualibekova, S., Kim, S., & Kim, S. (2023). Unraveling the ARC Puzzle: Mimicking Human Solutions with Object-Centric Decision Transformer. ICML Workshop ILHF.'
 ---
