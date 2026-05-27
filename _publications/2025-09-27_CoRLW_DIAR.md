@@ -1,5 +1,5 @@
 ---
-title: "Diffusion-model-guided Implicit Q-learning with Adaptive Revaluation"
+title: "Diffusion-Model-Guided Implicit Q-Learning with Adaptive Revaluation"
 collection: Conference
 date: 2025-09-27
 venue: 'CoRL Workshop LEAP'
