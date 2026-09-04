@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor in the School of Computing and Artificial Intelligence at Chungnam National University (CNU), Korea. I received my Ph.D. in Computer Science from KAIST under the supervision of Prof. Jae-Gil Lee and Prof. Kyu-Young Whang. Before joining CNU, I was a Postdoctoral Researcher in the Department of AI at Gwangju Institute of Science and Technology (GIST).
 
-I am a Postdoctoral Researcher in the Department of AI Convergence at Gwangju Institute of Science and Technology (GIST), Korea. I received my Ph.D. in Computer Science from KAIST under the supervision of Prof. Jae-Gil Lee and Prof. Kyu-Young Whang. My doctoral research focused on spatio-temporal prediction and transfer learning, and my current work centers on advancing human-like reasoning and abstraction in artificial intelligence.
+My research focuses on developing human-like reasoning capabilities in artificial intelligence, with an emphasis on abstraction, compositional generalization, and alignment. I use the Abstraction and Reasoning Corpus (ARC) as a testbed for studying general intelligence and investigate how AI systems can acquire structured and reusable reasoning capabilities through program synthesis, trajectory-based learning, reinforcement learning, and neuro-symbolic approaches. Ultimately, I aim to develop general and adaptive AI systems that can learn from limited experience and systematically generalize to diverse and unfamiliar problems.
 
-My research aims to develop abstraction and reasoning capabilities toward general and adaptive intelligence, with a particular focus on ARC-AGI, compositional generalization, program synthesis, and reinforcement learning with trajectory modeling. I have published in leading international conferences, including ICML, IJCAI, KDD, NeurIPS, AAAI, and ICLR, as well as in Q1 SCI-E journals such as ACM TIST.
-
-I currently serve as an Area Chair for KDD 2026 Datasets and Benchmarks Track and as a Program Committee member for AAAI. I was selected as a top 10% Outstanding Reviewer at KDD 2025, and received the NRF Postdoctoral Fellowship (2024–2026) and the Excellence Postdoctoral Researcher Award at GIST.
+My work has been published in major machine learning and AI venues, including KDD and ICLR, as well as journals such as ACM TIST, TMLR, and Machine Learning. I have served as an Area Chair for the KDD Datasets and Benchmarks Track and as a Program Committee member for major AI and machine learning conferences. I was selected as a Top 10% Outstanding Reviewer at KDD and received the NRF Postdoctoral Fellowship and the Excellence Postdoctoral Researcher Award at GIST.
 
 Education
 ------
 * 2009.02 - 2013.08   B.S. in Computer Science, KAIST
-* 2013.09 - 2016.08   M.S. in School of Computing, KAIST
-* 2017.03 - 2023.02   Ph.D in School of Computing, KAIST
+* 2013.09 - 2016.08   M.S. in Computer Science, KAIST
+* 2017.03 - 2023.02   Ph.D. in Computer Science, KAIST
 
 
 Selected Publications
