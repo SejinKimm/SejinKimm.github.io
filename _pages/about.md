@@ -16,9 +16,9 @@ My work has been published in major machine learning and AI venues, including KD
 
 Education
 ------
-* 2009.02 - 2013.08   B.S. in Computer Science, KAIST
-* 2013.09 - 2016.08   M.S. in Computer Science, KAIST
-* 2017.03 - 2023.02   Ph.D. in Computer Science, KAIST
+* 2009.02 - 2013.08   B.S. in School of Computing, KAIST
+* 2013.09 - 2016.08   M.S. in School of Computing, KAIST
+* 2017.03 - 2023.02   Ph.D. in School of Computing, KAIST
 
 
 Selected Publications
